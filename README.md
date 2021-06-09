@@ -13,3 +13,11 @@ https://github.com/eugenp/tutorials
 Martin Thompson:
 
 https://www.youtube.com/watch?v=d50SxnI1D6Y
+
+
+
+Engineering blogs one should read:
+
+https://databricks.com/blog/category/engineering/platform
+
+https://eng.uber.com/
