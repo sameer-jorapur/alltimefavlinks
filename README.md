@@ -1,5 +1,14 @@
 # Links
 
+Concepts:
+
+https://www.baeldung.com/
+
+Java:
+
+http://tutorials.jenkov.com/
+
+
 System Design:
 
 https://gist.github.com/vasanthk/485d1c25737e8e72759f
@@ -21,3 +30,8 @@ Engineering blogs one should read:
 https://databricks.com/blog/category/engineering/platform
 
 https://eng.uber.com/
+
+
+Micro Services:
+
+https://www.javatpoint.com/creating-a-simple-microservice
