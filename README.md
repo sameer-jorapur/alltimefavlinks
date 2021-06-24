@@ -19,6 +19,7 @@ https://github.com/begeekmyfriend
 
 https://github.com/eugenp/tutorials
 
+
 Martin Thompson:
 
 https://www.youtube.com/watch?v=d50SxnI1D6Y
@@ -46,6 +47,7 @@ https://github.com/merry75/educative.io_courses
 Algorithms:
 
 https://massivealgorithms.blogspot.com
+
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
 
